@@ -10,3 +10,7 @@ func Frog() {
 func Frogsbourne() {
 	fmt.Println("frogsbourne is a little gross")
 }
+
+func Ribbit() {
+	fmt.Println("rbit")
+}
